@@ -4,3 +4,4 @@ requests
 Pillow
 git+https://github.com/Abhay3011/youtube-dl
 https://github.com/Tinche/aiofiles/archive/master.zip
+ffmpeg
